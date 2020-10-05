@@ -1,0 +1,19 @@
+{
+  "name": "hw9-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hw9-back.js",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "start": "node hw9-back.js"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}

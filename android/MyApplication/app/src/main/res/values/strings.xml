@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">eBay Catalog Search</string>
+    <string name="app_name2">Search Results</string>
+    <string name="keyword_hint">Enter Keyword</string>
+    <string name="minPrice_hint">Minimum Price</string>
+    <string name="maxPrice_hint">Maximum Price</string>
+    <string name="keyword_label">Keyword</string>
+    <string name="price_label">Price Range</string>
+    <string name="condition_label">Condition</string>
+    <string name="sortby_label">Sort By</string>
+    <string name="warning1">Please enter mandatory field</string>
+    <string name="warning2">Please enter valid price values</string>
+    <string name="alert1">Please fix all fields with errors</string>
+    <string name="condition_new">New</string>
+    <string name="condition_used">Used</string>
+    <string name="condition_unspecified">Unspecified</string>
+    <string-array name="sorbySpinner">
+        <item>Best Match</item>
+        <item>Price: Highest first</item>
+        <item>Price+Shipping: Highest first</item>
+        <item>Price+Shipping: Lowest first</item>
+    </string-array>
+    <string name="search_button">SEARCH</string>
+    <string name="clear_button">CLEAR</string>
+    <string name="title_activity_item_detail_tab">ItemDetailTab</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
